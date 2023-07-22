@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<a:clrScheme xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" name="シンプル">
+  <a:dk1>
+    <a:srgbClr val="000000" />
+  </a:dk1>
+  <a:lt1>
+    <a:srgbClr val="FFFFFF" />
+  </a:lt1>
+  <a:dk2>
+    <a:srgbClr val="00489D" />
+  </a:dk2>
+  <a:lt2>
+    <a:srgbClr val="C00000" />
+  </a:lt2>
+  <a:accent1>
+    <a:srgbClr val="46CBC3" />
+  </a:accent1>
+  <a:accent2>
+    <a:srgbClr val="FFD700" />
+  </a:accent2>
+  <a:accent3>
+    <a:srgbClr val="DE5327" />
+  </a:accent3>
+  <a:accent4>
+    <a:srgbClr val="A7E869" />
+  </a:accent4>
+  <a:accent5>
+    <a:srgbClr val="FEC306" />
+  </a:accent5>
+  <a:accent6>
+    <a:srgbClr val="0046C2" />
+  </a:accent6>
+  <a:hlink>
+    <a:srgbClr val="F59E00" />
+  </a:hlink>
+  <a:folHlink>
+    <a:srgbClr val="B2B2B2" />
+  </a:folHlink>
+</a:clrScheme>
